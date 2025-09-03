@@ -14,6 +14,9 @@ Explanations and examples will be added by Greg.
 # - Multi-line comments (docstrings)
 # ==========================================================
 
+print("Justin", 3.14,10) # This is how we print in python
+""" Me when
+the comments are in block """
 
 
 # ==========================================================
